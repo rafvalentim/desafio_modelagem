@@ -1,3 +1,3 @@
 # desafio_modelagem
 
-Respositório criando para o desafio de Modelagem da SMN
+Respositório criado para o desafio de Modelagem da SMN
